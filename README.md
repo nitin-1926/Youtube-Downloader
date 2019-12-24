@@ -1,5 +1,6 @@
 # Youtube-Video-Downloader
-A Node.js application to download the youtube video on providing a URL
+A simple Node.js application to download the youtube video on providing a URL
+(Low quality for now).
 
 # Steps
 1. Download the zip file and extract it on your computer.
